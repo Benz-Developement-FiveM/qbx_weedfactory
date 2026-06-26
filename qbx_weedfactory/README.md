@@ -1,4 +1,4 @@
-# benz_weedshops
+#qbx_weedfactory
 
 ## Requirements
 - qbx_core
@@ -6,6 +6,7 @@
 - ox_inventory
 - ox_target
 - oxmysql
+- Renewed-Banking
 
 
 Each shop location has:
