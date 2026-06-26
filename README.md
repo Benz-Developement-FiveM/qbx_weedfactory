@@ -6,6 +6,7 @@
 - ox_inventory
 - ox_target
 - oxmysql
+- Renewed-Banking
 
 
 Each shop location has:
